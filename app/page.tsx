@@ -9,6 +9,6 @@ export default function Home() {
   return (
   <div>
     <Profile person={{ name: "Lin Lanying", imageId: "1bX5QH6" }}
-    size={200} />
+    size={100} />
   </div>)
 }
